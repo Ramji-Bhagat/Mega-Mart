@@ -1,8 +1,34 @@
-# React + Vite
+# 🛒 Mega-Mart
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Mega-Mart is a React + Firebase based e-commerce platform for beginners.  
+It demonstrates core e-commerce features such as product browsing, cart management, authentication, and secure checkout.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+- **User Authentication**: Sign up, log in, and manage user sessions with Firebase Authentication.
+- **Product Listings**: Browse available products with details like images, descriptions, and prices.
+- **Shopping Cart**: Add, update, and remove items from your cart.
+- **Search & Filter**: Easily find products with search and filtering options.
+- **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices.
+- **Firebase Hosting & Firestore**: Real-time database integration and hosting support.
+
+---
+
+## 🖥️ Tech Stack
+
+- **Frontend**: React, React Router, Tailwind CSS
+- **Backend/Database**: Firebase Firestore
+- **Auth**: Firebase Authentication
+- **Hosting**: Firebase Hosting
+- **Version Control**: Git + GitHub
+
+---
+
+## 📦 Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Ramji-Bhagat/Mega-Mart.git
+   cd Mega-Mart
